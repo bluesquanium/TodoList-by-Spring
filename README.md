@@ -35,7 +35,7 @@ URL : "localhost:8080/todolist"
    - mv 파일명 tomcat8 디렉토리의 이름을 바꿉니다.
    
 ### 2. todolist.war 파일 다운로드
- - 해당 깃허브 Repository(TodoList-by-Spring) 의 [WAR 파일](https://github.com/bluesquanium/TodoList-by-Spring/tree/master/WAR%20%ED%8C%8C%EC%9D%BC, "WAR 파일") 폴더에서 "todolist.war"파일을 다운로드 받습니다.
+ - 해당 깃허브 Repository(TodoList-by-Spring) 의 [WAR 파일](https://github.com/bluesquanium/TodoList-by-Spring/tree/master/WAR%20%ED%8C%8C%EC%9D%BC "WAR 파일") 폴더에서 "todolist.war"파일을 다운로드 받습니다.
 
 ### 3. 웹 실행
  - 설치한 Tomcat 폴더 내의 webapps 폴더 안에 todolist.war 파일을 넣어줍니다.
