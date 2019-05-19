@@ -45,6 +45,7 @@ URL : "localhost:8080/todolist"
  ![webapps](/image/webapps.JPG)
  - cd 명령어를 통해 Tomcat 폴더 내의 bin 폴더로 이동한 뒤, 아래의 명령어를 통해 Tomcat을 실행시켜 줍니다.
    - sudo ./startup.sh
+   
  ![startup](/image/startup.JPG)
  - 브라우저를 통해 "localhost:8080/todolist" 로 이동하면 웹이 실행됩니다.
  ![login](/image/login.JPG)
