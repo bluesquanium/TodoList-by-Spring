@@ -29,7 +29,10 @@ URL : "localhost:8080/todolist"
 ### 1. Tomcat 설치
 
  - 아래의 링크로 들어가 tomcat 8 버젼, tar.gz 파일을 다운 받습니다.
+ 
+ 
     https://tomcat.apache.org/download-80.cgi
+    ![install](/image/install.png)
  - tar.gz 파일을 다운로드 받은 디렉토리에서 아래의 명령어를 통해 압축해제 및 폴더 명을 바꿔줍니다.
    - tar -zxvf 파일명 root directory에서 압축을 해제합니다.
    - mv 파일명 tomcat8 디렉토리의 이름을 바꿉니다.
