@@ -42,11 +42,11 @@ URL : "localhost:8080/todolist"
 
 ### 3. 웹 실행
  - 설치한 Tomcat 폴더 내의 webapps 폴더 안에 todolist.war 파일을 넣어줍니다.
- ![webapps](/image/webapps.jpg)
+ ![webapps](/image/webapps.JPG)
  - cd 명령어를 통해 Tomcat 폴더 내의 bin 폴더로 이동한 뒤, 아래의 명령어를 통해 Tomcat을 실행시켜 줍니다.
    - sudo ./startup.sh
- ![startup](/image/startup.jpg)
+ ![startup](/image/startup.JPG)
  - 브라우저를 통해 "localhost:8080/todolist" 로 이동하면 웹이 실행됩니다.
- ![login](/image/login.jpg)
+ ![login](/image/login.JPG)
  - [ ID : guest, PW : guest ] 를 입력하면 로그인할 수 있습니다.
- ![TodoList](/image/TodoList.jpg)
+ ![TodoList](/image/TodoList.JPG)
